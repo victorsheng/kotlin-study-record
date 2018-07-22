@@ -1,0 +1,3 @@
+[submodule "teacher-book"]
+	path = teacher-book
+	url = https://github.com/kymjs/KotlinPrimer.git
